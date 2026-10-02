@@ -7,7 +7,7 @@ pr: 162
 url: https://github.com/VictorNascimento14/Vitalbank/pull/162
 branch: feat/sistema-titulo-da-aba
 tags: [pr, sistema, acessibilidade, seo]
-status: aberto
+status: merged
 ---
 
 # PR #162 — feat(sistema): título da aba do navegador por tela
