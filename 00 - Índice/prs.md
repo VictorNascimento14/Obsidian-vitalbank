@@ -10,3 +10,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 
 | PR | Nota |
 |---|---|
+| #2 | [[2026-10-02-pr-002-scaffolding]] — chore: scaffolding Next.js + TypeScript + Tailwind 4 + pnpm |
