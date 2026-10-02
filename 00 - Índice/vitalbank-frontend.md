@@ -24,5 +24,6 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - Fontes: Inter (padrão) e Lato (`font-cartao`) pelo `next/font` — [[2026-10-02-pr-010-fontes]].
 - [[Movimento]] — `motion`, ritmo comum, `ProvedorDeMovimento`, `Surgir` — [[2026-10-02-pr-018-movimento-base]].
 - [[Primitivos]] — `Bloco`, `TituloDeSecao`… — [[2026-10-02-pr-024-bloco-e-titulo]].
+- [[Marca]] — símbolo de dois cartões e "Vitalbank." — [[2026-10-02-pr-038-marca]].
 
 ## Telas

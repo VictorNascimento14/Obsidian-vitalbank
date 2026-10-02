@@ -28,3 +28,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #32 | [[2026-10-02-pr-032-alternador]] — ui(primitivos): Alternador liga/desliga com a bolinha em mola |
 | #34 | [[2026-10-02-pr-034-abas]] — ui(primitivos): Abas acessíveis com sublinhado deslizante |
 | #36 | [[2026-10-02-pr-036-pastilha-de-icone]] — ui(primitivos): ícones Remix e a PastilhaDeIcone colorida |
+| #38 | [[2026-10-02-pr-038-marca]] — ui(marca): símbolo e nome do Vitalbank, e o ícone da aba |
