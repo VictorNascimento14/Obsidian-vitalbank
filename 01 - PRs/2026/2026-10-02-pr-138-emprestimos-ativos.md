@@ -7,7 +7,7 @@ pr: 138
 url: https://github.com/VictorNascimento14/Vitalbank/pull/138
 branch: feat/emprestimos-ativos
 tags: [pr, emprestimos, tabela, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #138 — feat(emprestimos): tabela de empréstimos ativos com pagamento de parcela
