@@ -73,3 +73,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #122 | [[2026-10-02-pr-122-cartoes-meus-cartoes]] — feat(cartoes): os três cartões no topo da tela de Cartões |
 | #124 | [[2026-10-02-pr-124-grafico-de-rosca]] — feat(graficos): rosca com arcos de espessura própria e legenda interativa |
 | #126 | [[2026-10-02-pr-126-cartoes-gasto-por-cartao]] — feat(cartoes): Gasto por cartão calculado das transações |
+| #128 | [[2026-10-02-pr-128-cartoes-lista]] — feat(cartoes): Lista de cartões com ficha que abre em Ver detalhes |
