@@ -7,7 +7,7 @@ pr: 102
 url: https://github.com/VictorNascimento14/Vitalbank/pull/102
 branch: feat/contas-ultima-transacao
 tags: [pr, contas, transacoes]
-status: aberto
+status: merged
 ---
 
 # PR #102 — feat(contas): bloco Última transação com tipo, cartão e situação
