@@ -57,3 +57,10 @@ Família **Inter** (Lato aparece nos cartões do kit e entra só neles).
 - Sombra "Shadow 1": `4px 4px 18px -2px rgb(231 228 232 / 0.8)`.
 - Casca desktop: coluna lateral **250 px**, cabeçalho **101 px**, miolo com respiro de **40 px** e
   vão de **30 px** entre blocos.
+
+## Tema escuro
+
+As mesmas variáveis, redefinidas em `globals.css` por `prefers-color-scheme: dark` (se a pessoa não escolheu
+o claro) e por `[data-tema="escuro"]`. Fundo `#0E1020`, superfície `#171A2E`, borda `#252A44`, tinta
+`#E4E7F5`, primária `#6E6BFF`; fundos de pastilha translúcidos. `marinho` (`#343C6A` / `#3A4275`) é a cor
+de fatia que continua escura nos dois temas. — [[2026-10-02-pr-174-paleta-escura]]
