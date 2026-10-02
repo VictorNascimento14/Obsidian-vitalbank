@@ -7,7 +7,7 @@ pr: 74
 url: https://github.com/VictorNascimento14/Vitalbank/pull/74
 branch: feat/visao-geral-historico-de-saldo
 tags: [pr, visao-geral, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #74 — feat(visao-geral): bloco Histórico de saldo
