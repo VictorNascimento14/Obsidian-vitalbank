@@ -104,3 +104,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #184 | [[2026-10-02-pr-184-sistema-tela-de-erro]] — feat(sistema): tela de erro com tentar de novo, sem derrubar a casca |
 | #186 | [[2026-10-02-pr-186-acessibilidade-axe]] — test(a11y): axe nas nove telas, com controle negativo |
 | #188 | [[2026-10-02-pr-188-valores-sensiveis]] — feat(privacidade): marcar saldos e valores para poderem ser ocultados |
+| #190 | [[2026-10-02-pr-190-botao-ocultar-valores]] — feat(privacidade): botão de olho para ocultar valores, lembrado entre visitas |

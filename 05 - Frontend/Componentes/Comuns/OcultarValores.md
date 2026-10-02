@@ -13,3 +13,5 @@ tags: [privacidade]
 - O leitor de tela continua lendo: é proteção contra quem olha a tela.
 
 Mecanismo em [[2026-10-02-pr-188-valores-sensiveis]].
+
+Botão no cabeçalho, lembrado entre visitas e aplicado antes da pintura: [[2026-10-02-pr-190-botao-ocultar-valores]].
