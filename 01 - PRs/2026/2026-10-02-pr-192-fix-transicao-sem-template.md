@@ -7,7 +7,7 @@ pr: 192
 url: https://github.com/VictorNascimento14/Vitalbank/pull/192
 branch: fix/transicao-sem-template
 tags: [pr, bug, nextjs, casca]
-status: aberto
+status: merged
 ---
 
 # PR #192 — fix(casca): transição entre telas na casca, sem o aviso de key do template
