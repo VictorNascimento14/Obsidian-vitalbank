@@ -21,3 +21,4 @@ Peças de `src/ui/base/`, importadas de `@/ui`. Tokens em [[linguagem-visual]].
 | `Abas` | WAI-ARIA com setas/Home/End; sublinhado desliza (`layoutId`), painel em fade | [[2026-10-02-pr-034-abas]] |
 | `PastilhaDeIcone` | círculo claro + ícone Remix colorido; 6 tons; gira e cresce com `group-hover` | [[2026-10-02-pr-036-pastilha-de-icone]] |
 | `Paginacao` | "Anterior 1 2 3 Próxima"; página atual em pílula que desliza; controlada | [[2026-10-02-pr-088-paginacao]] |
+| `CartaoDeResumo` | pastilha + rótulo + valor que conta; sobe no hover; cabe em 2 colunas no celular | [[2026-10-02-pr-096-cartao-de-resumo]] |
