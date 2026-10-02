@@ -7,7 +7,7 @@ pr: 112
 url: https://github.com/VictorNascimento14/Vitalbank/pull/112
 branch: feat/investimentos-resumo
 tags: [pr, investimentos]
-status: aberto
+status: merged
 ---
 
 # PR #112 — feat(investimentos): resumo com total investido, aplicações e retorno
