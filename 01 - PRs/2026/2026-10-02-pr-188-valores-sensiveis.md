@@ -7,7 +7,7 @@ pr: 188
 url: https://github.com/VictorNascimento14/Vitalbank/pull/188
 branch: feat/valores-sensiveis
 tags: [pr, privacidade, design]
-status: aberto
+status: merged
 ---
 
 # PR #188 — feat(privacidade): marcar saldos e valores para poderem ser ocultados
