@@ -7,7 +7,7 @@ pr: 148
 url: https://github.com/VictorNascimento14/Vitalbank/pull/148
 branch: feat/dominio-forca-da-senha
 tags: [pr, dominio, seguranca]
-status: aberto
+status: merged
 ---
 
 # PR #148 — feat(dominio): força da senha e regra mínima de troca
