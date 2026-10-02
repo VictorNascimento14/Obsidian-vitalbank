@@ -7,7 +7,7 @@ pr: 128
 url: https://github.com/VictorNascimento14/Vitalbank/pull/128
 branch: feat/cartoes-lista
 tags: [pr, cartoes, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #128 — feat(cartoes): Lista de cartões com ficha que abre em Ver detalhes
