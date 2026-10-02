@@ -7,7 +7,7 @@ pr: 32
 url: https://github.com/VictorNascimento14/Vitalbank/pull/32
 branch: ui/alternador
 tags: [pr, design, primitivos, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #32 — ui(primitivos): Alternador liga/desliga com a bolinha em mola
