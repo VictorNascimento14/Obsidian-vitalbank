@@ -7,7 +7,7 @@ pr: 104
 url: https://github.com/VictorNascimento14/Vitalbank/pull/104
 branch: feat/contas-meu-cartao
 tags: [pr, contas, cartao]
-status: aberto
+status: merged
 ---
 
 # PR #104 — feat(contas): bloco Meu cartão com o cartão azul em destaque
