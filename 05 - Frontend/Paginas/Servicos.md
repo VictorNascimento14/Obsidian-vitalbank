@@ -11,3 +11,4 @@ tags: [pagina, servicos]
 | Bloco | Arquivo | PR |
 |---|---|---|
 | Destaques | `src/telas/servicos/DestaquesDeServicos.tsx` | [[2026-10-02-pr-140-servicos-destaques]] |
+| Lista de serviços | `src/telas/servicos/ListaDeServicos.tsx` | [[2026-10-02-pr-142-servicos-lista]] |

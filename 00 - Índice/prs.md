@@ -80,3 +80,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #136 | [[2026-10-02-pr-136-emprestimos-linhas-de-credito]] — feat(emprestimos): linhas de crédito pessoal, empresarial, negócios e personalizada |
 | #138 | [[2026-10-02-pr-138-emprestimos-ativos]] — feat(emprestimos): tabela de empréstimos ativos com pagamento de parcela |
 | #140 | [[2026-10-02-pr-140-servicos-destaques]] — feat(servicos): três serviços em destaque no topo da tela |
+| #142 | [[2026-10-02-pr-142-servicos-lista]] — feat(servicos): lista de serviços com atributos reais e detalhes que abrem |
