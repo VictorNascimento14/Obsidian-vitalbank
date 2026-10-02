@@ -7,7 +7,7 @@ pr: 84
 url: https://github.com/VictorNascimento14/Vitalbank/pull/84
 branch: fix/estouro-horizontal-no-celular
 tags: [pr, bug, layout, responsivo]
-status: aberto
+status: merged
 ---
 
 # PR #84 — fix(layout): impedir que a fila de cartões alargue a página no celular
