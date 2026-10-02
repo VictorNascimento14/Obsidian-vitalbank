@@ -7,7 +7,7 @@ pr: 50
 url: https://github.com/VictorNascimento14/Vitalbank/pull/50
 branch: ui/cartao-de-credito
 tags: [pr, design, cartao, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #50 — ui(cartao): cartão de crédito em três faces, com inclinação 3D e reflexo ao mouse
