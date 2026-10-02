@@ -7,7 +7,7 @@ pr: 116
 url: https://github.com/VictorNascimento14/Vitalbank/pull/116
 branch: feat/investimentos-receita-mensal
 tags: [pr, investimentos, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #116 — feat(investimentos): gráfico da receita mensal
