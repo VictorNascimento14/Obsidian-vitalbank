@@ -7,7 +7,7 @@ pr: 174
 url: https://github.com/VictorNascimento14/Vitalbank/pull/174
 branch: ui/paleta-escura
 tags: [pr, design, tema, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #174 — ui(tema): paleta escura nos tokens, seguindo o sistema
