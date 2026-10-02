@@ -7,7 +7,7 @@ pr: 142
 url: https://github.com/VictorNascimento14/Vitalbank/pull/142
 branch: feat/servicos-lista
 tags: [pr, servicos, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #142 — feat(servicos): lista de serviços com atributos reais e detalhes que abrem
