@@ -7,7 +7,7 @@ pr: 36
 url: https://github.com/VictorNascimento14/Vitalbank/pull/36
 branch: ui/pastilha-de-icone
 tags: [pr, design, primitivos, icones]
-status: aberto
+status: merged
 ---
 
 # PR #36 — ui(primitivos): ícones Remix e a PastilhaDeIcone colorida
