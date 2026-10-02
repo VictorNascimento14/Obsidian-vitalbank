@@ -7,7 +7,7 @@ pr: 136
 url: https://github.com/VictorNascimento14/Vitalbank/pull/136
 branch: feat/emprestimos-linhas-de-credito
 tags: [pr, emprestimos]
-status: aberto
+status: merged
 ---
 
 # PR #136 — feat(emprestimos): linhas de crédito pessoal, empresarial, negócios e personalizada
