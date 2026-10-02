@@ -7,7 +7,7 @@ pr: 70
 url: https://github.com/VictorNascimento14/Vitalbank/pull/70
 branch: feat/visao-geral-transferencia-rapida
 tags: [pr, visao-geral, transferencia, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #70 — feat(visao-geral): Transferência rápida com fila de contatos e envio animado
