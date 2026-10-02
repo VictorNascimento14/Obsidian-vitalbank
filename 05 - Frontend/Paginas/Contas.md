@@ -14,3 +14,4 @@ tags: [pagina, contas]
 | Última transação | `src/telas/contas/UltimaTransacao.tsx` | [[2026-10-02-pr-102-contas-ultima-transacao]] |
 | Meu cartão | `src/telas/contas/MeuCartao.tsx` | [[2026-10-02-pr-104-contas-meu-cartao]] |
 | Débito e crédito | `src/telas/contas/DebitoECredito.tsx` | [[2026-10-02-pr-106-contas-debito-e-credito]] |
+| Faturas enviadas | `src/telas/contas/FaturasEnviadas.tsx` | [[2026-10-02-pr-108-contas-faturas-enviadas]] |
