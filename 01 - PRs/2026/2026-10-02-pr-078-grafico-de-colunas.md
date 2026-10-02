@@ -7,7 +7,7 @@ pr: 78
 url: https://github.com/VictorNascimento14/Vitalbank/pull/78
 branch: feat/grafico-de-colunas
 tags: [pr, graficos, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #78 — feat(graficos): colunas com destaque que segue o mouse
