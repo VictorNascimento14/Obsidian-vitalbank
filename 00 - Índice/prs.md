@@ -93,3 +93,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #162 | [[2026-10-02-pr-162-titulo-da-aba]] — feat(sistema): título da aba do navegador por tela |
 | #164 | [[2026-10-02-pr-164-esqueleto]] — ui(primitivos): Esqueleto de carregamento com brilho que corre |
 | #166 | [[2026-10-02-pr-166-sistema-carregamento]] — feat(sistema): tela de carregamento do painel com esqueletos |
+| #168 | [[2026-10-02-pr-168-sistema-notificacoes]] — feat(sistema): painel de notificações no sino do cabeçalho |
