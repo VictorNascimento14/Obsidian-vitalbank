@@ -7,7 +7,7 @@ pr: 66
 url: https://github.com/VictorNascimento14/Vitalbank/pull/66
 branch: feat/grafico-de-pizza
 tags: [pr, graficos, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #66 — feat(graficos): pizza explodida que abre do centro e destaca a fatia com o mouse
