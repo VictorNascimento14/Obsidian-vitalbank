@@ -7,7 +7,7 @@ pr: 196
 url: https://github.com/VictorNascimento14/Vitalbank/pull/196
 branch: chore/ci-formatacao
 tags: [pr, ci, qualidade]
-status: aberto
+status: merged
 ---
 
 # PR #196 — chore(ci): checar a formatação no PR e pular o commit de estilo no blame
