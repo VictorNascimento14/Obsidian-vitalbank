@@ -65,3 +65,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #106 | [[2026-10-02-pr-106-contas-debito-e-credito]] — feat(contas): Débito e crédito da semana, com o total de cada lado |
 | #108 | [[2026-10-02-pr-108-contas-faturas-enviadas]] — feat(contas): Faturas enviadas com tempo relativo |
 | #110 | [[2026-10-02-pr-110-formatar-numero-no-dominio]] — refactor(dominio): formatarNumero sai do módulo cliente para servir ao servidor |
+| #112 | [[2026-10-02-pr-112-investimentos-resumo]] — feat(investimentos): resumo com total investido, aplicações e retorno |

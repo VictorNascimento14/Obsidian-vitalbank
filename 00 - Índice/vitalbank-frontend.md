@@ -38,3 +38,4 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[VisaoGeral]] — `/`
 - [[Transacoes]] — `/transacoes`
 - [[Contas]] — `/contas`
+- [[Investimentos]] — `/investimentos`

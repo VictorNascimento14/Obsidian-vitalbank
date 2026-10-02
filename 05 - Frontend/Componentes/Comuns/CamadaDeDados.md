@@ -22,6 +22,7 @@ A fronteira do [[ADR-001-frontend-primeiro-com-dados-mock]]: as telas leem **só
 | `resumoDaConta()` | saldo, receitas, despesas, poupança |
 | `debitoECredito()` | débito e crédito por dia, 7 dias |
 | `faturasEnviadas()` | cobranças enviadas |
+| `resumoDosInvestimentos()` | total, quantidade, retorno (pontos-base) |
 
 - Funções `async`: a assinatura já é a de quando houver backend.
 - Sementes em `src/dados/sementes/`, titular "Cliente Exemplo".
