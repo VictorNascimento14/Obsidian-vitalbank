@@ -12,7 +12,7 @@ Tela inicial (no kit: "Overview"). Grade a partir de `xl`: 73 : 35 nas duas prim
 
 | Bloco | Arquivo | PR |
 |---|---|---|
-| Meus cartões | `src/telas/visao-geral/MeusCartoes.tsx` | [[2026-10-02-pr-052-visao-geral-meus-cartoes]] |
+| Meus cartões | `src/telas/comum/MeusCartoes.tsx` (compartilhado) | [[2026-10-02-pr-052-visao-geral-meus-cartoes]] |
 | Transações recentes | `src/telas/visao-geral/TransacoesRecentes.tsx` | [[2026-10-02-pr-056-visao-geral-transacoes-recentes]] |
 | Atividade semanal | `src/telas/visao-geral/AtividadeSemanal.tsx` | [[2026-10-02-pr-062-visao-geral-atividade-semanal]] |
 | Estatística de despesas | `src/telas/visao-geral/EstatisticaDeDespesas.tsx` | [[2026-10-02-pr-068-visao-geral-estatistica-de-despesas]] |
