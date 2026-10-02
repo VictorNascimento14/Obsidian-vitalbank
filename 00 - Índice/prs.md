@@ -48,3 +48,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #72 | [[2026-10-02-pr-072-grafico-de-linha]] — feat(graficos): linha e área que se desenham, com guia e valor ao passar o mouse |
 | #74 | [[2026-10-02-pr-074-visao-geral-historico-de-saldo]] — feat(visao-geral): bloco Histórico de saldo |
 | #76 | [[2026-10-02-pr-076-meus-cartoes-compartilhado]] — refactor(telas): Meus cartões compartilhado entre telas, com ação configurável |
+| #78 | [[2026-10-02-pr-078-grafico-de-colunas]] — feat(graficos): colunas com destaque que segue o mouse |
