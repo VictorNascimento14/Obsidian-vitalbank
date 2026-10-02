@@ -7,7 +7,7 @@ pr: 68
 url: https://github.com/VictorNascimento14/Vitalbank/pull/68
 branch: feat/visao-geral-estatistica-de-despesas
 tags: [pr, visao-geral, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #68 — feat(visao-geral): bloco Estatística de despesas
