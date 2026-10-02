@@ -13,3 +13,4 @@ Tela inicial (no kit: "Overview"). Grade a partir de `xl`: 73 : 35 nas duas prim
 | Bloco | Arquivo | PR |
 |---|---|---|
 | Meus cartões | `src/telas/visao-geral/MeusCartoes.tsx` | [[2026-10-02-pr-052-visao-geral-meus-cartoes]] |
+| Transações recentes | `src/telas/visao-geral/TransacoesRecentes.tsx` | [[2026-10-02-pr-056-visao-geral-transacoes-recentes]] |
