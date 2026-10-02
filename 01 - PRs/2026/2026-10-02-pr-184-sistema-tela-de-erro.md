@@ -7,7 +7,7 @@ pr: 184
 url: https://github.com/VictorNascimento14/Vitalbank/pull/184
 branch: feat/sistema-tela-de-erro
 tags: [pr, sistema, robustez, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #184 — feat(sistema): tela de erro com tentar de novo, sem derrubar a casca
