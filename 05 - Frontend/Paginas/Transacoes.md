@@ -12,3 +12,4 @@ tags: [pagina, transacoes]
 |---|---|---|
 | Meus cartões ("+ Adicionar cartão") | `src/telas/comum/MeusCartoes.tsx` | [[2026-10-02-pr-080-transacoes-cartoes-e-despesas]] |
 | Minhas despesas | `src/telas/transacoes/MinhasDespesas.tsx` | [[2026-10-02-pr-080-transacoes-cartoes-e-despesas]] |
+| Extrato (tabela / lista) | `src/telas/transacoes/TabelaDeTransacoes.tsx` | [[2026-10-02-pr-086-transacoes-tabela]] |
