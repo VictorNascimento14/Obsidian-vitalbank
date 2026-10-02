@@ -7,7 +7,7 @@ pr: 190
 url: https://github.com/VictorNascimento14/Vitalbank/pull/190
 branch: feat/botao-ocultar-valores
 tags: [pr, privacidade, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #190 — feat(privacidade): botão de olho para ocultar valores, lembrado entre visitas
