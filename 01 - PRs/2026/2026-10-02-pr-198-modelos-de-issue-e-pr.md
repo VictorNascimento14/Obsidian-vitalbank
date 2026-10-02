@@ -7,7 +7,7 @@ pr: 198
 url: https://github.com/VictorNascimento14/Vitalbank/pull/198
 branch: chore/modelos-de-issue-e-pr
 tags: [pr, github, processo]
-status: aberto
+status: merged
 ---
 
 # PR #198 — chore(github): modelos de issue (funcionalidade, bug) e de PR
