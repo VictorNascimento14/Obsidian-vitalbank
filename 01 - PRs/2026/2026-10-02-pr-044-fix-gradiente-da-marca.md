@@ -7,7 +7,7 @@ pr: 44
 url: https://github.com/VictorNascimento14/Vitalbank/pull/44
 branch: fix/gradiente-da-marca
 tags: [pr, bug, marca, svg]
-status: aberto
+status: merged
 ---
 
 # PR #44 — fix(marca): dar id único ao gradiente do símbolo
