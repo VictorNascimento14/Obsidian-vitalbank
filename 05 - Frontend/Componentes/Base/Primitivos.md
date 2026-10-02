@@ -23,3 +23,4 @@ Peças de `src/ui/base/`, importadas de `@/ui`. Tokens em [[linguagem-visual]].
 | `Paginacao` | "Anterior 1 2 3 Próxima"; página atual em pílula que desliza; controlada | [[2026-10-02-pr-088-paginacao]] |
 | `CartaoDeResumo` | pastilha + rótulo + valor que conta; sobe no hover; cabe em 2 colunas no celular | [[2026-10-02-pr-096-cartao-de-resumo]] |
 | `CampoDeSelecao` | `<select>` nativo com a cara do `Campo`; seta gira no foco | [[2026-10-02-pr-130-campo-de-selecao]] |
+| `BarraDeProgresso` | `progressbar` que enche por `scaleX` ao aparecer; `aria-valuetext` | [[2026-10-02-pr-154-barra-de-progresso]] |
