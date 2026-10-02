@@ -98,3 +98,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #172 | [[2026-10-02-pr-172-sistema-busca-global]] — feat(sistema): busca global com Ctrl+K em telas, transações e serviços |
 | #174 | [[2026-10-02-pr-174-paleta-escura]] — ui(tema): paleta escura nos tokens, seguindo o sistema |
 | #176 | [[2026-10-02-pr-176-tema-alternancia]] — feat(tema): alternar claro e escuro com transição em círculo e sem piscar |
+| #178 | [[2026-10-02-pr-178-deploy-pages]] — chore(deploy): publicar a demo no GitHub Pages a cada merge na main |
