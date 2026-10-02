@@ -107,3 +107,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #190 | [[2026-10-02-pr-190-botao-ocultar-valores]] — feat(privacidade): botão de olho para ocultar valores, lembrado entre visitas |
 | #192 | [[2026-10-02-pr-192-fix-transicao-sem-template]] — fix(casca): transição entre telas na casca, sem o aviso de key do template |
 | #194 | [[2026-10-02-pr-194-prettier]] — style: formatar o código com Prettier e ordenar as classes do Tailwind |
+| #196 | [[2026-10-02-pr-196-ci-formatacao]] — chore(ci): checar a formatação no PR e pular o commit de estilo no blame |
