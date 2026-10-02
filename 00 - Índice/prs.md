@@ -50,3 +50,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #76 | [[2026-10-02-pr-076-meus-cartoes-compartilhado]] — refactor(telas): Meus cartões compartilhado entre telas, com ação configurável |
 | #78 | [[2026-10-02-pr-078-grafico-de-colunas]] — feat(graficos): colunas com destaque que segue o mouse |
 | #80 | [[2026-10-02-pr-080-transacoes-cartoes-e-despesas]] — feat(transacoes): Meus cartões e Minhas despesas no topo da tela |
+| #82 | [[2026-10-02-pr-082-dados-codigo-da-transacao]] — feat(dados): código de extrato nas transações e semente de dois meses |
