@@ -18,6 +18,7 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[Datas]] — `AAAA-MM-DD` lido no horário local; formatos longo, curto, eixo e relativo — [[2026-10-02-pr-014-datas]].
 - [[CartaoMascarado]] — máscara, Luhn e validade — [[2026-10-02-pr-016-cartao-mascarado]].
 - [[CamadaDeDados]] — tipos, sementes e funções `async` de leitura — [[2026-10-02-pr-048-dados-base]].
+- [[Recibo]] — texto e nome do recibo de transação — [[2026-10-02-pr-092-dominio-recibo]].
 
 ## Design system (`src/ui/`)
 
