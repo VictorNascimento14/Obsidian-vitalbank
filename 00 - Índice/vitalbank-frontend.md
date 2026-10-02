@@ -41,3 +41,4 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[Investimentos]] — `/investimentos`
 - [[CartoesDeCredito]] — `/cartoes`
 - [[Emprestimos]] — `/emprestimos`
+- [[Servicos]] — `/servicos`
