@@ -28,6 +28,7 @@ A fronteira do [[ADR-001-frontend-primeiro-com-dados-mock]]: as telas leem **só
 | `listarCarteira()` | aplicações (empresas fictícias) |
 | `acoesEmAlta()` | ações do dia (nomes fictícios) |
 | `linhasDeCredito()` | limites pré-aprovados |
+| `emprestimosAtivos()` | empréstimos em aberto |
 
 - Funções `async`: a assinatura já é a de quando houver backend.
 - Sementes em `src/dados/sementes/`, titular "Cliente Exemplo".
