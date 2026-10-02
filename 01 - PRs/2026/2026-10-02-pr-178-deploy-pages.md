@@ -7,7 +7,7 @@ pr: 178
 url: https://github.com/VictorNascimento14/Vitalbank/pull/178
 branch: chore/deploy-pages
 tags: [pr, deploy, infra]
-status: aberto
+status: merged
 ---
 
 # PR #178 — chore(deploy): publicar a demo no GitHub Pages a cada merge na main
