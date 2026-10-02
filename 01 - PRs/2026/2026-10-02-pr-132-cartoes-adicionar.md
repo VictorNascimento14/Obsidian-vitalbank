@@ -7,7 +7,7 @@ pr: 132
 url: https://github.com/VictorNascimento14/Vitalbank/pull/132
 branch: feat/cartoes-adicionar
 tags: [pr, cartoes, formulario, seguranca]
-status: aberto
+status: merged
 ---
 
 # PR #132 — feat(cartoes): formulário de novo cartão com máscara, Luhn e validade
