@@ -7,7 +7,7 @@ pr: 82
 url: https://github.com/VictorNascimento14/Vitalbank/pull/82
 branch: feat/dados-codigo-da-transacao
 tags: [pr, dados, transacoes]
-status: aberto
+status: merged
 ---
 
 # PR #82 — feat(dados): código de extrato nas transações e semente de dois meses
