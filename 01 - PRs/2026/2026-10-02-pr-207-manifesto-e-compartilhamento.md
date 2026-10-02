@@ -7,7 +7,7 @@ pr: 207
 url: https://github.com/VictorNascimento14/Vitalbank/pull/207
 branch: feat/sistema-manifesto-e-compartilhamento
 tags: [pr, sistema, pwa, seo]
-status: aberto
+status: merged
 ---
 
 # PR #207 — feat(sistema): instalar como app e imagem de compartilhamento do link
