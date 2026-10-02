@@ -36,3 +36,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #48 | [[2026-10-02-pr-048-dados-base]] — feat(dados): tipos, sementes de cartões e transações, e a fronteira de leitura |
 | #50 | [[2026-10-02-pr-050-cartao-de-credito]] — ui(cartao): cartão de crédito em três faces, com inclinação 3D e reflexo ao mouse |
 | #52 | [[2026-10-02-pr-052-visao-geral-meus-cartoes]] — feat(visao-geral): bloco Meus cartões, com fila deslizante no celular |
+| #54 | [[2026-10-02-pr-054-data-media]] — feat(dominio): formato médio de data para listas estreitas |

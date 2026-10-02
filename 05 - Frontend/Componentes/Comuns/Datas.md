@@ -13,6 +13,7 @@ Datas são texto `AAAA-MM-DD` (ou `AAAA-MM-DDTHH:mm`), lidas **no horário local
 | Função | Exemplo |
 |---|---|
 | `formatarDataLonga` | "28 de janeiro de 2021" |
+| `formatarDataMedia` | "28 set 2026" |
 | `formatarDataCurta` | "28 jan" · "28 jan, 12:30" |
 | `mesCurto` / `diaDaSemanaCurto` | "ago" · "sáb" |
 | `haQuantoTempo` | "hoje" · "ontem" · "há 5 dias" |
