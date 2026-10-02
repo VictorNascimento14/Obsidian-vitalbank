@@ -21,3 +21,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #18 | [[2026-10-02-pr-018-movimento-base]] — ui(movimento): instalar motion, ritmo comum e o primitivo Surgir |
 | #20 | [[2026-10-02-pr-020-escalonado]] — ui(movimento): entrada em cascata para listas com Escalonado |
 | #22 | [[2026-10-02-pr-022-numero-animado]] — ui(movimento): número que conta até o valor, com leitura acessível |
+| #24 | [[2026-10-02-pr-024-bloco-e-titulo]] — ui(primitivos): Bloco e TituloDeSecao, a moldura de todas as telas |
