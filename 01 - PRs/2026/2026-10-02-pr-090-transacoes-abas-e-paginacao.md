@@ -7,7 +7,7 @@ pr: 90
 url: https://github.com/VictorNascimento14/Vitalbank/pull/90
 branch: feat/transacoes-abas-e-paginacao
 tags: [pr, transacoes, abas, paginacao]
-status: aberto
+status: merged
 ---
 
 # PR #90 — feat(transacoes): filtrar o extrato por entradas e saídas e paginar de 5 em 5
