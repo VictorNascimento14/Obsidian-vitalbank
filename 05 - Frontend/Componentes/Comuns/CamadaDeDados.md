@@ -14,6 +14,7 @@ A fronteira do [[ADR-001-frontend-primeiro-com-dados-mock]]: as telas leem **só
 |---|---|
 | `listarCartoes()` | cartões (início, final, titular, validade, saldo, variante) |
 | `listarTransacoes({ limite? })` | movimentos do mais recente ao mais antigo; valor com sinal |
+| `atividadeSemanal()` | 7 dias com entradas e saídas |
 
 - Funções `async`: a assinatura já é a de quando houver backend.
 - Sementes em `src/dados/sementes/`, titular "Cliente Exemplo".
