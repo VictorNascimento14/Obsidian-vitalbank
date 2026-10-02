@@ -7,7 +7,7 @@ pr: 170
 url: https://github.com/VictorNascimento14/Vitalbank/pull/170
 branch: feat/dominio-busca
 tags: [pr, dominio, busca]
-status: aberto
+status: merged
 ---
 
 # PR #170 — feat(dominio): busca sem acento, com todas as palavras e ordem por relevância
