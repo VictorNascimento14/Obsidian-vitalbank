@@ -7,7 +7,7 @@ pr: 180
 url: https://github.com/VictorNascimento14/Vitalbank/pull/180
 branch: fix/celular-resumo-e-emprestimos
 tags: [pr, bug, responsivo]
-status: aberto
+status: merged
 ---
 
 # PR #180 — fix(celular): cartões de resumo e tabela de empréstimos cabem em 375 px
