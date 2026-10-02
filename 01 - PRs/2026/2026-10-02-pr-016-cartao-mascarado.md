@@ -7,7 +7,7 @@ pr: 16
 url: https://github.com/VictorNascimento14/Vitalbank/pull/16
 branch: feat/dominio-cartao
 tags: [pr, dominio, cartao, seguranca]
-status: aberto
+status: merged
 ---
 
 # PR #16 — feat(dominio): mascarar cartão e validar número e validade digitados
