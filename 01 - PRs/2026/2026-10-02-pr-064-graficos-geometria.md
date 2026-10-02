@@ -7,7 +7,7 @@ pr: 64
 url: https://github.com/VictorNascimento14/Vitalbank/pull/64
 branch: feat/graficos-geometria
 tags: [pr, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #64 — feat(graficos): geometria de setores para pizza e rosca
