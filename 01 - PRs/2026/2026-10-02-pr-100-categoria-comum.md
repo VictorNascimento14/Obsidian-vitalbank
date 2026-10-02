@@ -7,7 +7,7 @@ pr: 100
 url: https://github.com/VictorNascimento14/Vitalbank/pull/100
 branch: refactor/categoria-comum
 tags: [pr, refactor, transacoes]
-status: aberto
+status: merged
 ---
 
 # PR #100 — refactor(telas): rótulo e ícone da categoria num módulo comum
