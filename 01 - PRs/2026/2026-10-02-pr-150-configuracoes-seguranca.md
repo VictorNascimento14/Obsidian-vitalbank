@@ -7,7 +7,7 @@ pr: 150
 url: https://github.com/VictorNascimento14/Vitalbank/pull/150
 branch: feat/configuracoes-seguranca
 tags: [pr, configuracoes, seguranca, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #150 — feat(configuracoes): aba Segurança com duas etapas e troca de senha com medidor
