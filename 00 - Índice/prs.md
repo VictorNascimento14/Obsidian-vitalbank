@@ -26,3 +26,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #28 | [[2026-10-02-pr-028-campo]] — ui(primitivos): Campo de texto com rótulo, dica e erro acessíveis |
 | #30 | [[2026-10-02-pr-030-avatar]] — ui(primitivos): Avatar com iniciais sobre gradiente de tokens |
 | #32 | [[2026-10-02-pr-032-alternador]] — ui(primitivos): Alternador liga/desliga com a bolinha em mola |
+| #34 | [[2026-10-02-pr-034-abas]] — ui(primitivos): Abas acessíveis com sublinhado deslizante |

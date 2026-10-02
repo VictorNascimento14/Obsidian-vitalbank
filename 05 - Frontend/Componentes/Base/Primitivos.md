@@ -18,3 +18,4 @@ Peças de `src/ui/base/`, importadas de `@/ui`. Tokens em [[linguagem-visual]].
 | `Campo` | input com rótulo, `dica` e `erro` (`aria-describedby`, `aria-invalid`); halo de foco | [[2026-10-02-pr-028-campo]] |
 | `Avatar` | iniciais sobre gradiente de tokens escolhido por hash do nome; sem foto (ADR-002) | [[2026-10-02-pr-030-avatar]] |
 | `Alternador` | `role="switch"`, controlado ou não; bolinha desliza em mola, trilho turquesa | [[2026-10-02-pr-032-alternador]] |
+| `Abas` | WAI-ARIA com setas/Home/End; sublinhado desliza (`layoutId`), painel em fade | [[2026-10-02-pr-034-abas]] |
