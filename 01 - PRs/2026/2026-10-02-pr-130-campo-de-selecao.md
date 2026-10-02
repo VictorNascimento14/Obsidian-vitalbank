@@ -7,7 +7,7 @@ pr: 130
 url: https://github.com/VictorNascimento14/Vitalbank/pull/130
 branch: ui/campo-de-selecao
 tags: [pr, design, primitivos, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #130 — ui(primitivos): CampoDeSelecao, o select nativo com a cara do Campo
