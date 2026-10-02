@@ -38,3 +38,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #52 | [[2026-10-02-pr-052-visao-geral-meus-cartoes]] — feat(visao-geral): bloco Meus cartões, com fila deslizante no celular |
 | #54 | [[2026-10-02-pr-054-data-media]] — feat(dominio): formato médio de data para listas estreitas |
 | #56 | [[2026-10-02-pr-056-visao-geral-transacoes-recentes]] — feat(visao-geral): bloco Transações recentes |
+| #58 | [[2026-10-02-pr-058-graficos-escala]] — feat(graficos): escalas, marcas de eixo e curva suave para gráficos próprios em SVG |
