@@ -20,6 +20,7 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[CamadaDeDados]] — tipos, sementes e funções `async` de leitura — [[2026-10-02-pr-048-dados-base]].
 - [[Recibo]] — texto e nome do recibo de transação — [[2026-10-02-pr-092-dominio-recibo]].
 - [[ForcaDaSenha]] — força de 0 a 4 e regra mínima — [[2026-10-02-pr-148-forca-da-senha]].
+- [[ProgramaDePontos]] — níveis, pontos e benefícios — [[2026-10-02-pr-152-programa-de-pontos]].
 
 ## Design system (`src/ui/`)
 

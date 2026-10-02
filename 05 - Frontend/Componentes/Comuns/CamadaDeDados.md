@@ -31,6 +31,7 @@ A fronteira do [[ADR-001-frontend-primeiro-com-dados-mock]]: as telas leem **só
 | `emprestimosAtivos()` | empréstimos em aberto |
 | `listarServicos()` | serviços com atributos e descrição |
 | `obterPerfil()` | cadastro da pessoa logada |
+| `programaDePontos()` | níveis, pontos e benefícios |
 
 - Funções `async`: a assinatura já é a de quando houver backend.
 - Sementes em `src/dados/sementes/`, titular "Cliente Exemplo".
