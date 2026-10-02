@@ -51,3 +51,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #78 | [[2026-10-02-pr-078-grafico-de-colunas]] — feat(graficos): colunas com destaque que segue o mouse |
 | #80 | [[2026-10-02-pr-080-transacoes-cartoes-e-despesas]] — feat(transacoes): Meus cartões e Minhas despesas no topo da tela |
 | #82 | [[2026-10-02-pr-082-dados-codigo-da-transacao]] — feat(dados): código de extrato nas transações e semente de dois meses |
+| #84 | [[2026-10-02-pr-084-fix-estouro-horizontal]] — fix(layout): impedir que a fila de cartões alargue a página no celular |
