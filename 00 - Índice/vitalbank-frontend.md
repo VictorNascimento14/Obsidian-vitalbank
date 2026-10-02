@@ -17,6 +17,7 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[Dinheiro]] — centavos inteiros, `formatarMoeda`, `somarCentavos`, `paraCentavos` — [[2026-10-02-pr-012-dinheiro]].
 - [[Datas]] — `AAAA-MM-DD` lido no horário local; formatos longo, curto, eixo e relativo — [[2026-10-02-pr-014-datas]].
 - [[CartaoMascarado]] — máscara, Luhn e validade — [[2026-10-02-pr-016-cartao-mascarado]].
+- [[CamadaDeDados]] — tipos, sementes e funções `async` de leitura — [[2026-10-02-pr-048-dados-base]].
 
 ## Design system (`src/ui/`)
 

@@ -1,0 +1,22 @@
+---
+tipo: componente
+camada: dados
+arquivo: src/dados/
+ultima_atualizacao: 2026-10-02
+tags: [dados]
+---
+
+# Camada de dados
+
+A fronteira do [[ADR-001-frontend-primeiro-com-dados-mock]]: as telas leem **só** por `src/dados/index.ts`.
+
+| Função | Devolve |
+|---|---|
+| `listarCartoes()` | cartões (início, final, titular, validade, saldo, variante) |
+| `listarTransacoes({ limite? })` | movimentos do mais recente ao mais antigo; valor com sinal |
+
+- Funções `async`: a assinatura já é a de quando houver backend.
+- Sementes em `src/dados/sementes/`, titular "Cliente Exemplo".
+- `dados.test.ts` reprova sequência de 13–19 dígitos que passe no Luhn.
+
+Introduzido em [[2026-10-02-pr-048-dados-base]].
