@@ -7,7 +7,7 @@ pr: 122
 url: https://github.com/VictorNascimento14/Vitalbank/pull/122
 branch: feat/cartoes-meus-cartoes
 tags: [pr, cartoes]
-status: aberto
+status: merged
 ---
 
 # PR #122 — feat(cartoes): os três cartões no topo da tela de Cartões
