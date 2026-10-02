@@ -18,3 +18,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #12 | [[2026-10-02-pr-012-dinheiro]] — feat(dominio): dinheiro em centavos com formatação e leitura em reais |
 | #14 | [[2026-10-02-pr-014-datas]] — feat(dominio): ler e formatar datas no horário local |
 | #16 | [[2026-10-02-pr-016-cartao-mascarado]] — feat(dominio): mascarar cartão e validar número e validade digitados |
+| #18 | [[2026-10-02-pr-018-movimento-base]] — ui(movimento): instalar motion, ritmo comum e o primitivo Surgir |
