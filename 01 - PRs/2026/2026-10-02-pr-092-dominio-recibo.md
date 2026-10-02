@@ -7,7 +7,7 @@ pr: 92
 url: https://github.com/VictorNascimento14/Vitalbank/pull/92
 branch: feat/dominio-recibo
 tags: [pr, dominio, recibo]
-status: aberto
+status: merged
 ---
 
 # PR #92 — feat(dominio): texto do recibo de transação
