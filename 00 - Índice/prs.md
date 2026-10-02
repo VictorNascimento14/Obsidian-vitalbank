@@ -101,3 +101,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #178 | [[2026-10-02-pr-178-deploy-pages]] — chore(deploy): publicar a demo no GitHub Pages a cada merge na main |
 | #180 | [[2026-10-02-pr-180-fix-celular-resumo-e-emprestimos]] — fix(celular): cartões de resumo e tabela de empréstimos cabem em 375 px |
 | #182 | [[2026-10-02-pr-182-readme]] — docs(readme): demo, capturas, o que o app tem e como o código se organiza |
+| #184 | [[2026-10-02-pr-184-sistema-tela-de-erro]] — feat(sistema): tela de erro com tentar de novo, sem derrubar a casca |
