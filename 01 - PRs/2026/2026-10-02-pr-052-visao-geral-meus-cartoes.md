@@ -7,7 +7,7 @@ pr: 52
 url: https://github.com/VictorNascimento14/Vitalbank/pull/52
 branch: feat/visao-geral-meus-cartoes
 tags: [pr, visao-geral, cartao]
-status: aberto
+status: merged
 ---
 
 # PR #52 — feat(visao-geral): bloco Meus cartões, com fila deslizante no celular
