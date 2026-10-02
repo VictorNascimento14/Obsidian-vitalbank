@@ -7,7 +7,7 @@ pr: 60
 url: https://github.com/VictorNascimento14/Vitalbank/pull/60
 branch: feat/grafico-de-barras
 tags: [pr, graficos, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #60 — feat(graficos): barras agrupadas que crescem da base, com dica e tabela acessível
