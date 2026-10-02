@@ -7,7 +7,7 @@ pr: 146
 url: https://github.com/VictorNascimento14/Vitalbank/pull/146
 branch: feat/configuracoes-preferencias
 tags: [pr, configuracoes, formulario]
-status: aberto
+status: merged
 ---
 
 # PR #146 — feat(configuracoes): aba Preferências com moeda, fuso e avisos
