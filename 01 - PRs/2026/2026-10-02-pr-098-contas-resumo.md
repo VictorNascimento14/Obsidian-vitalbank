@@ -7,7 +7,7 @@ pr: 98
 url: https://github.com/VictorNascimento14/Vitalbank/pull/98
 branch: feat/contas-resumo
 tags: [pr, contas]
-status: aberto
+status: merged
 ---
 
 # PR #98 — feat(contas): resumo com saldo, receitas, despesas e poupança
