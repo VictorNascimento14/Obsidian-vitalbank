@@ -32,3 +32,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #40 | [[2026-10-02-pr-040-coluna-lateral]] — ui(casca): coluna lateral com o marcador deslizando até a tela aberta |
 | #42 | [[2026-10-02-pr-042-cabecalho]] — ui(casca): cabeçalho com título da tela, busca, atalhos e avatar |
 | #44 | [[2026-10-02-pr-044-fix-gradiente-da-marca]] — fix(marca): dar id único ao gradiente do símbolo |
+| #46 | [[2026-10-02-pr-046-layout-do-painel]] — ui(casca): layout do painel com coluna fixa e gaveta no celular |

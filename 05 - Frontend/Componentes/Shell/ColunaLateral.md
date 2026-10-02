@@ -16,7 +16,7 @@ Menu de 250 px com a [[Marca]] no topo e as 9 telas de `NAVEGACAO` (`src/ui/casc
 | `/transacoes` | Transações |
 | `/contas` | Contas |
 | `/investimentos` | Investimentos |
-| `/cartoes` | Cartões de crédito |
+| `/cartoes` | Cartões (título: Cartões de crédito) |
 | `/emprestimos` | Empréstimos |
 | `/servicos` | Serviços |
 | `/privilegios` | Meus privilégios |
