@@ -59,3 +59,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #94 | [[2026-10-02-pr-094-transacoes-baixar-recibo]] — feat(transacoes): baixar o recibo de cada transação |
 | #96 | [[2026-10-02-pr-096-cartao-de-resumo]] — ui(primitivos): CartaoDeResumo com número que conta e pastilha fluida |
 | #98 | [[2026-10-02-pr-098-contas-resumo]] — feat(contas): resumo com saldo, receitas, despesas e poupança |
+| #100 | [[2026-10-02-pr-100-categoria-comum]] — refactor(telas): rótulo e ícone da categoria num módulo comum |
