@@ -21,6 +21,7 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[Recibo]] — texto e nome do recibo de transação — [[2026-10-02-pr-092-dominio-recibo]].
 - [[ForcaDaSenha]] — força de 0 a 4 e regra mínima — [[2026-10-02-pr-148-forca-da-senha]].
 - [[ProgramaDePontos]] — níveis, pontos e benefícios — [[2026-10-02-pr-152-programa-de-pontos]].
+- [[Busca]] — regra e busca global (Ctrl+K) — [[2026-10-02-pr-170-dominio-busca]].
 
 ## Design system (`src/ui/`)
 
