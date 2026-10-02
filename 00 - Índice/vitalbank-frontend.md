@@ -35,3 +35,4 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 ## Telas
 
 - [[VisaoGeral]] — `/`
+- [[Transacoes]] — `/transacoes`
