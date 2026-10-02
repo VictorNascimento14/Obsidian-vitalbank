@@ -7,7 +7,7 @@ pr: 114
 url: https://github.com/VictorNascimento14/Vitalbank/pull/114
 branch: feat/investimentos-anual
 tags: [pr, investimentos, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #114 — feat(investimentos): gráfico do investimento anual
