@@ -35,6 +35,7 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[Casca]] — layout `(painel)`: coluna fixa ≥ 1024 px, gaveta abaixo — [[2026-10-02-pr-046-layout-do-painel]].
 - [[CartaoDeCredito]] — 3 faces, inclinação 3D e reflexo — [[2026-10-02-pr-050-cartao-de-credito]].
 - [[Graficos]] — SVG próprio: escalas, barras, pizza, rosca, linha e área — [[2026-10-02-pr-058-graficos-escala]].
+- [[Tema]] — claro/escuro: paleta, alternância e script sem piscar — [[2026-10-02-pr-176-tema-alternancia]].
 
 ## Telas
 
