@@ -83,3 +83,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #142 | [[2026-10-02-pr-142-servicos-lista]] — feat(servicos): lista de serviços com atributos reais e detalhes que abrem |
 | #144 | [[2026-10-02-pr-144-configuracoes-perfil]] — feat(configuracoes): aba Editar perfil com prévia local da foto |
 | #146 | [[2026-10-02-pr-146-configuracoes-preferencias]] — feat(configuracoes): aba Preferências com moeda, fuso e avisos |
+| #148 | [[2026-10-02-pr-148-forca-da-senha]] — feat(dominio): força da senha e regra mínima de troca |
