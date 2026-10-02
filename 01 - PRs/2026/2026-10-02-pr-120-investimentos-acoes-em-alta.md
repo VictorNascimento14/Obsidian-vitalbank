@@ -7,7 +7,7 @@ pr: 120
 url: https://github.com/VictorNascimento14/Vitalbank/pull/120
 branch: feat/investimentos-acoes-em-alta
 tags: [pr, investimentos, tabela]
-status: aberto
+status: merged
 ---
 
 # PR #120 — feat(investimentos): tabela de ações em alta
