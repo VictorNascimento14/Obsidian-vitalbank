@@ -7,7 +7,7 @@ pr: 211
 url: https://github.com/VictorNascimento14/Vitalbank/pull/211
 branch: chore/script-de-publicacao
 tags: [pr, processo, scripts]
-status: aberto
+status: merged
 ---
 
 # PR #211 — chore(scripts): pipeline de publicação num comando
