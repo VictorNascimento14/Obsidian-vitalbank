@@ -7,7 +7,7 @@ pr: 186
 url: https://github.com/VictorNascimento14/Vitalbank/pull/186
 branch: test/acessibilidade-axe
 tags: [pr, testes, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #186 — test(a11y): axe nas nove telas, com controle negativo
