@@ -25,6 +25,7 @@ A fronteira do [[ADR-001-frontend-primeiro-com-dados-mock]]: as telas leem **só
 | `resumoDosInvestimentos()` | total, quantidade, retorno (pontos-base) |
 | `investimentoAnual()` | total por ano, 6 anos |
 | `receitaMensal()` | receita por mês, 12 meses |
+| `listarCarteira()` | aplicações (empresas fictícias) |
 
 - Funções `async`: a assinatura já é a de quando houver backend.
 - Sementes em `src/dados/sementes/`, titular "Cliente Exemplo".
