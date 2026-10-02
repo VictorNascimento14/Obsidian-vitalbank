@@ -7,7 +7,7 @@ pr: 58
 url: https://github.com/VictorNascimento14/Vitalbank/pull/58
 branch: feat/graficos-escala
 tags: [pr, graficos, design]
-status: aberto
+status: merged
 ---
 
 # PR #58 — feat(graficos): escalas, marcas de eixo e curva suave para gráficos próprios em SVG
