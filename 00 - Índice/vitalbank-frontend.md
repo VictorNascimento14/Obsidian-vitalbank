@@ -32,3 +32,5 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[CartaoDeCredito]] — 3 faces, inclinação 3D e reflexo — [[2026-10-02-pr-050-cartao-de-credito]].
 
 ## Telas
+
+- [[VisaoGeral]] — `/`
