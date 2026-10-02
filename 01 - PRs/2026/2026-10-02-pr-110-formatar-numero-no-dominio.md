@@ -7,7 +7,7 @@ pr: 110
 url: https://github.com/VictorNascimento14/Vitalbank/pull/110
 branch: refactor/formatar-numero-no-dominio
 tags: [pr, refactor, dominio, nextjs]
-status: aberto
+status: merged
 ---
 
 # PR #110 — refactor(dominio): formatarNumero sai do módulo cliente para servir ao servidor
