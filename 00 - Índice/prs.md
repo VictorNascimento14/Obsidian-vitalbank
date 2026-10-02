@@ -74,3 +74,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #124 | [[2026-10-02-pr-124-grafico-de-rosca]] — feat(graficos): rosca com arcos de espessura própria e legenda interativa |
 | #126 | [[2026-10-02-pr-126-cartoes-gasto-por-cartao]] — feat(cartoes): Gasto por cartão calculado das transações |
 | #128 | [[2026-10-02-pr-128-cartoes-lista]] — feat(cartoes): Lista de cartões com ficha que abre em Ver detalhes |
+| #130 | [[2026-10-02-pr-130-campo-de-selecao]] — ui(primitivos): CampoDeSelecao, o select nativo com a cara do Campo |
