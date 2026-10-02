@@ -7,7 +7,7 @@ pr: 140
 url: https://github.com/VictorNascimento14/Vitalbank/pull/140
 branch: feat/servicos-destaques
 tags: [pr, servicos]
-status: aberto
+status: merged
 ---
 
 # PR #140 — feat(servicos): três serviços em destaque no topo da tela
