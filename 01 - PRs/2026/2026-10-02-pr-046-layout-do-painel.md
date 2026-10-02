@@ -7,7 +7,7 @@ pr: 46
 url: https://github.com/VictorNascimento14/Vitalbank/pull/46
 branch: ui/layout-do-painel
 tags: [pr, design, casca, navegacao, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #46 — ui(casca): layout do painel com coluna fixa e gaveta no celular
