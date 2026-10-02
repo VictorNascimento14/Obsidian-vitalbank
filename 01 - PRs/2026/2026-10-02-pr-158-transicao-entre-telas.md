@@ -7,7 +7,7 @@ pr: 158
 url: https://github.com/VictorNascimento14/Vitalbank/pull/158
 branch: ui/transicao-entre-telas
 tags: [pr, casca, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #158 — ui(casca): transição suave do conteúdo a cada troca de tela
