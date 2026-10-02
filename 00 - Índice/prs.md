@@ -24,3 +24,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #24 | [[2026-10-02-pr-024-bloco-e-titulo]] — ui(primitivos): Bloco e TituloDeSecao, a moldura de todas as telas |
 | #26 | [[2026-10-02-pr-026-botao]] — ui(primitivos): Botao com variantes e resposta ao toque |
 | #28 | [[2026-10-02-pr-028-campo]] — ui(primitivos): Campo de texto com rótulo, dica e erro acessíveis |
+| #30 | [[2026-10-02-pr-030-avatar]] — ui(primitivos): Avatar com iniciais sobre gradiente de tokens |
