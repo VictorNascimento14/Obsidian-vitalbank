@@ -7,7 +7,7 @@ pr: 72
 url: https://github.com/VictorNascimento14/Vitalbank/pull/72
 branch: feat/grafico-de-linha
 tags: [pr, graficos, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #72 — feat(graficos): linha e área que se desenham, com guia e valor ao passar o mouse
