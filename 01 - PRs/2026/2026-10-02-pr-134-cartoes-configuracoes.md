@@ -7,7 +7,7 @@ pr: 134
 url: https://github.com/VictorNascimento14/Vitalbank/pull/134
 branch: feat/cartoes-configuracoes
 tags: [pr, cartoes, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #134 — feat(cartoes): Configurações do cartão com bloqueio na hora e carteiras digitais
