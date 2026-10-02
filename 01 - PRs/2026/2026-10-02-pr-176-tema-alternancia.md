@@ -7,7 +7,7 @@ pr: 176
 url: https://github.com/VictorNascimento14/Vitalbank/pull/176
 branch: feat/tema-alternancia
 tags: [pr, tema, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #176 — feat(tema): alternar claro e escuro com transição em círculo e sem piscar
