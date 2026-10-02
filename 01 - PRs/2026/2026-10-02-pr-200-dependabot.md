@@ -7,7 +7,7 @@ pr: 200
 url: https://github.com/VictorNascimento14/Vitalbank/pull/200
 branch: chore/dependabot
 tags: [pr, deps, seguranca]
-status: aberto
+status: merged
 ---
 
 # PR #200 — chore(deps): Dependabot semanal para o app e mensal para as Actions
