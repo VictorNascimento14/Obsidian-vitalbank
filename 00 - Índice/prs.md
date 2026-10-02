@@ -103,3 +103,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #182 | [[2026-10-02-pr-182-readme]] — docs(readme): demo, capturas, o que o app tem e como o código se organiza |
 | #184 | [[2026-10-02-pr-184-sistema-tela-de-erro]] — feat(sistema): tela de erro com tentar de novo, sem derrubar a casca |
 | #186 | [[2026-10-02-pr-186-acessibilidade-axe]] — test(a11y): axe nas nove telas, com controle negativo |
+| #188 | [[2026-10-02-pr-188-valores-sensiveis]] — feat(privacidade): marcar saldos e valores para poderem ser ocultados |
