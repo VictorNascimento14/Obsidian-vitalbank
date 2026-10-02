@@ -25,6 +25,8 @@ Tudo que anima passa por `src/ui/movimento/`. Decisão em [[ADR-003-movimento-co
 - **`ProvedorDeMovimento`** — na raiz; `reducedMotion="user"` vale para o app inteiro.
 - **`Surgir`** — bloco entra subindo 16 px e ganhando opacidade, uma vez, quando aparece. [[2026-10-02-pr-018-movimento-base]]
 
+- **`Escalonado` / `ItemEscalonado`** — lista em cascata (0,06 s entre itens), com `como` para manter a tag. [[2026-10-02-pr-020-escalonado]]
+
 ## Regras
 
 - Só `transform` e `opacity` animam.
