@@ -77,3 +77,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #130 | [[2026-10-02-pr-130-campo-de-selecao]] — ui(primitivos): CampoDeSelecao, o select nativo com a cara do Campo |
 | #132 | [[2026-10-02-pr-132-cartoes-adicionar]] — feat(cartoes): formulário de novo cartão com máscara, Luhn e validade |
 | #134 | [[2026-10-02-pr-134-cartoes-configuracoes]] — feat(cartoes): Configurações do cartão com bloqueio na hora e carteiras digitais |
+| #136 | [[2026-10-02-pr-136-emprestimos-linhas-de-credito]] — feat(emprestimos): linhas de crédito pessoal, empresarial, negócios e personalizada |
