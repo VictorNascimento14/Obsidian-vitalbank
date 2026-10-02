@@ -61,3 +61,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #98 | [[2026-10-02-pr-098-contas-resumo]] — feat(contas): resumo com saldo, receitas, despesas e poupança |
 | #100 | [[2026-10-02-pr-100-categoria-comum]] — refactor(telas): rótulo e ícone da categoria num módulo comum |
 | #102 | [[2026-10-02-pr-102-contas-ultima-transacao]] — feat(contas): bloco Última transação com tipo, cartão e situação |
+| #104 | [[2026-10-02-pr-104-contas-meu-cartao]] — feat(contas): bloco Meu cartão com o cartão azul em destaque |
