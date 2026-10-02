@@ -24,3 +24,7 @@ cd /tmp/pages && python3 -m http.server 8811   # http://localhost:8811/Vitalbank
 - `/contas` dá 404: `trailingSlash` foi desligado.
 
 Introduzido em [[2026-10-02-pr-178-deploy-pages]].
+
+## Manifesto e compartilhamento
+
+`manifest.webmanifest`, ícones e `opengraph-image` saem no build; o `og:image` absoluto depende de `URL_DO_SITE` (definido no workflow). — [[2026-10-02-pr-207-manifesto-e-compartilhamento]]

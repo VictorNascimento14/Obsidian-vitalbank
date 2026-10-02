@@ -110,3 +110,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #196 | [[2026-10-02-pr-196-ci-formatacao]] — chore(ci): checar a formatação no PR e pular o commit de estilo no blame |
 | #198 | [[2026-10-02-pr-198-modelos-de-issue-e-pr]] — chore(github): modelos de issue (funcionalidade, bug) e de PR |
 | #200 | [[2026-10-02-pr-200-dependabot]] — chore(deps): Dependabot semanal para o app e mensal para as Actions |
+| #207 | [[2026-10-02-pr-207-manifesto-e-compartilhamento]] — feat(sistema): instalar como app e imagem de compartilhamento do link |
