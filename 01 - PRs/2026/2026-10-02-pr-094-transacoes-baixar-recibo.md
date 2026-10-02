@@ -7,7 +7,7 @@ pr: 94
 url: https://github.com/VictorNascimento14/Vitalbank/pull/94
 branch: feat/transacoes-baixar-recibo
 tags: [pr, transacoes, recibo, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #94 — feat(transacoes): baixar o recibo de cada transação
