@@ -7,7 +7,7 @@ pr: 2
 url: https://github.com/VictorNascimento14/Vitalbank/pull/2
 branch: chore/scaffolding
 tags: [pr, fundacao]
-status: aberto
+status: merged
 ---
 
 # PR #2 — chore: scaffolding Next.js + TypeScript + Tailwind 4 + pnpm
