@@ -15,6 +15,7 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - Testes: Vitest + jsdom + Testing Library — [[2026-10-02-pr-004-testes]].
 - CI: lint, type-check, test, build e link do cofre obrigatório — [[2026-10-02-pr-006-ci]].
 - [[Dinheiro]] — centavos inteiros, `formatarMoeda`, `somarCentavos`, `paraCentavos` — [[2026-10-02-pr-012-dinheiro]].
+- [[Datas]] — `AAAA-MM-DD` lido no horário local; formatos longo, curto, eixo e relativo — [[2026-10-02-pr-014-datas]].
 
 ## Design system (`src/ui/`)
 
