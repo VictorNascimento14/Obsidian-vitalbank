@@ -7,7 +7,7 @@ pr: 20
 url: https://github.com/VictorNascimento14/Vitalbank/pull/20
 branch: ui/movimento-escalonado
 tags: [pr, design, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #20 — ui(movimento): entrada em cascata para listas com Escalonado
