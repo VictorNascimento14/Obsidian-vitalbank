@@ -14,6 +14,8 @@ Montada **uma vez** por `src/app/(painel)/layout.tsx`; só o `<main id="conteudo
 - **< `lg`:** a coluna mora numa **gaveta** (`role="dialog"`, `aria-modal`): véu com fade, painel em mola; fecha com Esc, clique no véu ou ao navegar; trava a rolagem; foco entra no primeiro link e volta ao ☰.
 - "Pular para o conteúdo" no topo, visível ao focar.
 
+A cada navegação, `src/app/(painel)/template.tsx` faz o miolo entrar (opacidade + 12 px) — [[2026-10-02-pr-158-transicao-entre-telas]].
+
 Tela que ainda não chegou usa `EmBreve`.
 
 Introduzido em [[2026-10-02-pr-046-layout-do-painel]].
