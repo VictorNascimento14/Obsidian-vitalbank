@@ -23,6 +23,7 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[ProgramaDePontos]] — níveis, pontos e benefícios — [[2026-10-02-pr-152-programa-de-pontos]].
 - [[Busca]] — regra e busca global (Ctrl+K) — [[2026-10-02-pr-170-dominio-busca]].
 - [[DeployPages]] — demo no GitHub Pages a cada merge — [[2026-10-02-pr-178-deploy-pages]].
+- Acessibilidade: axe nas 9 telas, com controle negativo — [[2026-10-02-pr-186-acessibilidade-axe]].
 
 ## Design system (`src/ui/`)
 
