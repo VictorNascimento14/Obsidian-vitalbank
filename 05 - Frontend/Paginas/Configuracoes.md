@@ -14,3 +14,4 @@ Um `Bloco` com `Abas` (`src/telas/configuracoes/Configuracoes.tsx`).
 |---|---|---|
 | Editar perfil | `src/telas/configuracoes/EditarPerfil.tsx` | [[2026-10-02-pr-144-configuracoes-perfil]] |
 | Preferências | `src/telas/configuracoes/Preferencias.tsx` | [[2026-10-02-pr-146-configuracoes-preferencias]] |
+| Segurança | `src/telas/configuracoes/Seguranca.tsx` | [[2026-10-02-pr-150-configuracoes-seguranca]] |
