@@ -17,3 +17,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #10 | [[2026-10-02-pr-010-fontes]] — ui(fontes): carregar Inter e Lato pelo next/font |
 | #12 | [[2026-10-02-pr-012-dinheiro]] — feat(dominio): dinheiro em centavos com formatação e leitura em reais |
 | #14 | [[2026-10-02-pr-014-datas]] — feat(dominio): ler e formatar datas no horário local |
+| #16 | [[2026-10-02-pr-016-cartao-mascarado]] — feat(dominio): mascarar cartão e validar número e validade digitados |
