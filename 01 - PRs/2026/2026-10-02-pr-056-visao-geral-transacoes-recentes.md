@@ -7,7 +7,7 @@ pr: 56
 url: https://github.com/VictorNascimento14/Vitalbank/pull/56
 branch: feat/visao-geral-transacoes-recentes
 tags: [pr, visao-geral, transacoes]
-status: aberto
+status: merged
 ---
 
 # PR #56 — feat(visao-geral): bloco Transações recentes
