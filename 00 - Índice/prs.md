@@ -14,3 +14,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #4 | [[2026-10-02-pr-004-testes]] — chore(test): rodar Vitest com jsdom e Testing Library |
 | #6 | [[2026-10-02-pr-006-ci]] — chore(ci): rodar lint, type-check, test e build e exigir o link do cofre no PR |
 | #8 | [[2026-10-02-pr-008-tokens]] — ui(tokens): traduzir as cores, raios, sombra e tipografia do BankDash em tokens |
+| #10 | [[2026-10-02-pr-010-fontes]] — ui(fontes): carregar Inter e Lato pelo next/font |

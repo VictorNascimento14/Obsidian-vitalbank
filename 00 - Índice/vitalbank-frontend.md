@@ -18,5 +18,6 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 ## Design system (`src/ui/`)
 
 - Tokens: cores, raios, sombra, tipografia e grade em `globals.css` — [[2026-10-02-pr-008-tokens]] · [[linguagem-visual]].
+- Fontes: Inter (padrão) e Lato (`font-cartao`) pelo `next/font` — [[2026-10-02-pr-010-fontes]].
 
 ## Telas
