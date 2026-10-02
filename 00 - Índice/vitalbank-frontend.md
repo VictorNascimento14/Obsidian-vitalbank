@@ -26,5 +26,6 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[Primitivos]] — `Bloco`, `TituloDeSecao`… — [[2026-10-02-pr-024-bloco-e-titulo]].
 - [[Marca]] — símbolo de dois cartões e "Vitalbank." — [[2026-10-02-pr-038-marca]].
 - [[ColunaLateral]] — menu das 9 telas, marcador deslizante — [[2026-10-02-pr-040-coluna-lateral]].
+- [[Cabecalho]] — título, busca, atalhos, avatar — [[2026-10-02-pr-042-cabecalho]].
 
 ## Telas

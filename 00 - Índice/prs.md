@@ -30,3 +30,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #36 | [[2026-10-02-pr-036-pastilha-de-icone]] — ui(primitivos): ícones Remix e a PastilhaDeIcone colorida |
 | #38 | [[2026-10-02-pr-038-marca]] — ui(marca): símbolo e nome do Vitalbank, e o ícone da aba |
 | #40 | [[2026-10-02-pr-040-coluna-lateral]] — ui(casca): coluna lateral com o marcador deslizando até a tela aberta |
+| #42 | [[2026-10-02-pr-042-cabecalho]] — ui(casca): cabeçalho com título da tela, busca, atalhos e avatar |
