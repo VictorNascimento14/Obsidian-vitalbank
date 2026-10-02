@@ -19,6 +19,7 @@ A fronteira do [[ADR-001-frontend-primeiro-com-dados-mock]]: as telas leem **só
 | `listarContatos()` | contatos frequentes da transferência |
 | `historicoDeSaldo()` | saldo de fim de mês, 12 meses |
 | `despesasMensais()` | gasto por mês, 6 meses |
+| `resumoDaConta()` | saldo, receitas, despesas, poupança |
 
 - Funções `async`: a assinatura já é a de quando houver backend.
 - Sementes em `src/dados/sementes/`, titular "Cliente Exemplo".

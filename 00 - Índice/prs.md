@@ -58,3 +58,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #92 | [[2026-10-02-pr-092-dominio-recibo]] — feat(dominio): texto do recibo de transação |
 | #94 | [[2026-10-02-pr-094-transacoes-baixar-recibo]] — feat(transacoes): baixar o recibo de cada transação |
 | #96 | [[2026-10-02-pr-096-cartao-de-resumo]] — ui(primitivos): CartaoDeResumo com número que conta e pastilha fluida |
+| #98 | [[2026-10-02-pr-098-contas-resumo]] — feat(contas): resumo com saldo, receitas, despesas e poupança |
