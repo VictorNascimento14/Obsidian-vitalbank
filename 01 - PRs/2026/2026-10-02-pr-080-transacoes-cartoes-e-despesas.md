@@ -7,7 +7,7 @@ pr: 80
 url: https://github.com/VictorNascimento14/Vitalbank/pull/80
 branch: feat/transacoes-cartoes-e-despesas
 tags: [pr, transacoes, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #80 — feat(transacoes): Meus cartões e Minhas despesas no topo da tela
