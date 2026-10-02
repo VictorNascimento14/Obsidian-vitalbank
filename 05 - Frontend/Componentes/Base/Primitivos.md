@@ -19,3 +19,4 @@ Peças de `src/ui/base/`, importadas de `@/ui`. Tokens em [[linguagem-visual]].
 | `Avatar` | iniciais sobre gradiente de tokens escolhido por hash do nome; sem foto (ADR-002) | [[2026-10-02-pr-030-avatar]] |
 | `Alternador` | `role="switch"`, controlado ou não; bolinha desliza em mola, trilho turquesa | [[2026-10-02-pr-032-alternador]] |
 | `Abas` | WAI-ARIA com setas/Home/End; sublinhado desliza (`layoutId`), painel em fade | [[2026-10-02-pr-034-abas]] |
+| `PastilhaDeIcone` | círculo claro + ícone Remix colorido; 6 tons; gira e cresce com `group-hover` | [[2026-10-02-pr-036-pastilha-de-icone]] |
