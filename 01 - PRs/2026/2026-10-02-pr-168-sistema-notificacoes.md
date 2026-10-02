@@ -7,7 +7,7 @@ pr: 168
 url: https://github.com/VictorNascimento14/Vitalbank/pull/168
 branch: feat/sistema-notificacoes
 tags: [pr, sistema, notificacoes, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #168 — feat(sistema): painel de notificações no sino do cabeçalho
