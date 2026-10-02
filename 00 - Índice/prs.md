@@ -70,3 +70,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #116 | [[2026-10-02-pr-116-investimentos-receita-mensal]] — feat(investimentos): gráfico da receita mensal |
 | #118 | [[2026-10-02-pr-118-investimentos-carteira]] — feat(investimentos): Meus investimentos com valor e retorno de cada aplicação |
 | #120 | [[2026-10-02-pr-120-investimentos-acoes-em-alta]] — feat(investimentos): tabela de ações em alta |
+| #122 | [[2026-10-02-pr-122-cartoes-meus-cartoes]] — feat(cartoes): os três cartões no topo da tela de Cartões |
