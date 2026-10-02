@@ -7,7 +7,7 @@ pr: 166
 url: https://github.com/VictorNascimento14/Vitalbank/pull/166
 branch: feat/sistema-carregamento
 tags: [pr, sistema, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #166 — feat(sistema): tela de carregamento do painel com esqueletos
