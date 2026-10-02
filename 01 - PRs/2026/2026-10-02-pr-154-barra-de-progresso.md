@@ -7,7 +7,7 @@ pr: 154
 url: https://github.com/VictorNascimento14/Vitalbank/pull/154
 branch: ui/barra-de-progresso
 tags: [pr, design, primitivos, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #154 — ui(primitivos): BarraDeProgresso que enche ao aparecer
