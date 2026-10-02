@@ -7,7 +7,7 @@ pr: 118
 url: https://github.com/VictorNascimento14/Vitalbank/pull/118
 branch: feat/investimentos-carteira
 tags: [pr, investimentos]
-status: aberto
+status: merged
 ---
 
 # PR #118 — feat(investimentos): Meus investimentos com valor e retorno de cada aplicação
