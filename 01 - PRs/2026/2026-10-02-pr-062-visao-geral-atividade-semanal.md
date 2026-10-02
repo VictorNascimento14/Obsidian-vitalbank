@@ -7,7 +7,7 @@ pr: 62
 url: https://github.com/VictorNascimento14/Vitalbank/pull/62
 branch: feat/visao-geral-atividade-semanal
 tags: [pr, visao-geral, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #62 — feat(visao-geral): bloco Atividade semanal
