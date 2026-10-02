@@ -30,6 +30,8 @@ plugins, em 2026-10-02. Decisão em [[ADR-002-design-system-bankdash]]; moviment
 | `alerta` | `#FFBB38` | ícone amarelo | — |
 | `laranja` | `#FEAA09` | série "crédito" | Primari 1 |
 | `rosa` | `#FF82AC` | ícone rosa | — |
+| `magenta` | `#FA00FF` | fatia "Investimento" da pizza | — |
+| `tangerina` | `#FC7900` | fatia "Contas" da pizza | — |
 | `amarelo-claro` / `azul-claro` / `turquesa-clara` / `rosa-claro` | `#FFF5D9` / `#E7EDFF` / `#DCFAF8` / `#FFE0EB` | fundo da pastilha de ícone | — |
 
 Gradientes: cartão escuro `#4C49ED → #0A06F4`; cartão azul `#2D60FF → #539BFF`; "Dark Blue Gradient"

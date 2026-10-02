@@ -43,3 +43,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #62 | [[2026-10-02-pr-062-visao-geral-atividade-semanal]] — feat(visao-geral): bloco Atividade semanal |
 | #64 | [[2026-10-02-pr-064-graficos-geometria]] — feat(graficos): geometria de setores para pizza e rosca |
 | #66 | [[2026-10-02-pr-066-grafico-de-pizza]] — feat(graficos): pizza explodida que abre do centro e destaca a fatia com o mouse |
+| #68 | [[2026-10-02-pr-068-visao-geral-estatistica-de-despesas]] — feat(visao-geral): bloco Estatística de despesas |
