@@ -7,7 +7,7 @@ pr: 86
 url: https://github.com/VictorNascimento14/Vitalbank/pull/86
 branch: feat/transacoes-tabela
 tags: [pr, transacoes, tabela, responsivo]
-status: aberto
+status: merged
 ---
 
 # PR #86 — feat(transacoes): extrato em tabela no desktop e em lista no celular
