@@ -7,7 +7,7 @@ pr: 106
 url: https://github.com/VictorNascimento14/Vitalbank/pull/106
 branch: feat/contas-debito-e-credito
 tags: [pr, contas, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #106 — feat(contas): Débito e crédito da semana, com o total de cada lado
