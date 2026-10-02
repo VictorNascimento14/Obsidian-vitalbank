@@ -7,7 +7,7 @@ pr: 144
 url: https://github.com/VictorNascimento14/Vitalbank/pull/144
 branch: feat/configuracoes-perfil
 tags: [pr, configuracoes, formulario, privacidade]
-status: aberto
+status: merged
 ---
 
 # PR #144 — feat(configuracoes): aba Editar perfil com prévia local da foto
