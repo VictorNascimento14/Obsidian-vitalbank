@@ -7,7 +7,7 @@ pr: 22
 url: https://github.com/VictorNascimento14/Vitalbank/pull/22
 branch: ui/numero-animado
 tags: [pr, design, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #22 — ui(movimento): número que conta até o valor, com leitura acessível
