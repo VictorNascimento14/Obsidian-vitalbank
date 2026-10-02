@@ -26,6 +26,7 @@ Tudo que anima passa por `src/ui/movimento/`. Decisão em [[ADR-003-movimento-co
 - **`Surgir`** — bloco entra subindo 16 px e ganhando opacidade, uma vez, quando aparece. [[2026-10-02-pr-018-movimento-base]]
 
 - **`Escalonado` / `ItemEscalonado`** — lista em cascata (0,06 s entre itens), com `como` para manter a tag. [[2026-10-02-pr-020-escalonado]]
+- **`NumeroAnimado`** — conta de 0 ao valor; texto animado `aria-hidden` + valor final em `sr-only`; formatos `moeda`, `moeda-compacta`, `inteiro`, `percentual` (pontos-base). [[2026-10-02-pr-022-numero-animado]]
 
 ## Regras
 
