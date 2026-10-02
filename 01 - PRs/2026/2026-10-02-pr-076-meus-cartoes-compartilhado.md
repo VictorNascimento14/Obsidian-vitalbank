@@ -7,7 +7,7 @@ pr: 76
 url: https://github.com/VictorNascimento14/Vitalbank/pull/76
 branch: refactor/meus-cartoes-compartilhado
 tags: [pr, refactor, cartao]
-status: aberto
+status: merged
 ---
 
 # PR #76 — refactor(telas): Meus cartões compartilhado entre telas, com ação configurável
