@@ -16,3 +16,4 @@ Tela inicial (no kit: "Overview"). Grade a partir de `xl`: 73 : 35 nas duas prim
 | Transações recentes | `src/telas/visao-geral/TransacoesRecentes.tsx` | [[2026-10-02-pr-056-visao-geral-transacoes-recentes]] |
 | Atividade semanal | `src/telas/visao-geral/AtividadeSemanal.tsx` | [[2026-10-02-pr-062-visao-geral-atividade-semanal]] |
 | Estatística de despesas | `src/telas/visao-geral/EstatisticaDeDespesas.tsx` | [[2026-10-02-pr-068-visao-geral-estatistica-de-despesas]] |
+| Transferência rápida | `src/telas/visao-geral/TransferenciaRapida.tsx` | [[2026-10-02-pr-070-visao-geral-transferencia-rapida]] |
