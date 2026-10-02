@@ -111,3 +111,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #198 | [[2026-10-02-pr-198-modelos-de-issue-e-pr]] — chore(github): modelos de issue (funcionalidade, bug) e de PR |
 | #200 | [[2026-10-02-pr-200-dependabot]] — chore(deps): Dependabot semanal para o app e mensal para as Actions |
 | #207 | [[2026-10-02-pr-207-manifesto-e-compartilhamento]] — feat(sistema): instalar como app e imagem de compartilhamento do link |
+| #209 | [[2026-10-02-pr-209-fix-documentacao-isenta-dependabot]] — fix(ci): não exigir nota do cofre nos PRs do Dependabot |
