@@ -7,7 +7,7 @@ pr: 126
 url: https://github.com/VictorNascimento14/Vitalbank/pull/126
 branch: feat/cartoes-gasto-por-cartao
 tags: [pr, cartoes, graficos]
-status: aberto
+status: merged
 ---
 
 # PR #126 — feat(cartoes): Gasto por cartão calculado das transações
