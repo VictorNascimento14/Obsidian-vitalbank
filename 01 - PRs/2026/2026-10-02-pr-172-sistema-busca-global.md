@@ -7,7 +7,7 @@ pr: 172
 url: https://github.com/VictorNascimento14/Vitalbank/pull/172
 branch: feat/sistema-busca-global
 tags: [pr, sistema, busca, acessibilidade, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #172 — feat(sistema): busca global com Ctrl+K em telas, transações e serviços
