@@ -11,3 +11,4 @@ tags: [pagina, investimentos]
 | Bloco | Arquivo | PR |
 |---|---|---|
 | Resumo | `src/telas/investimentos/ResumoDosInvestimentos.tsx` | [[2026-10-02-pr-112-investimentos-resumo]] |
+| Investimento anual | `src/telas/investimentos/InvestimentoAnual.tsx` | [[2026-10-02-pr-114-investimentos-anual]] |
