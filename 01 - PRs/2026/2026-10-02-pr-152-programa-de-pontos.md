@@ -7,7 +7,7 @@ pr: 152
 url: https://github.com/VictorNascimento14/Vitalbank/pull/152
 branch: feat/dominio-programa-de-pontos
 tags: [pr, dominio, privilegios]
-status: aberto
+status: merged
 ---
 
 # PR #152 — feat(dominio): níveis, pontos e benefícios do programa Meus privilégios
