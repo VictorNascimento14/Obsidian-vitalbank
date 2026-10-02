@@ -14,3 +14,4 @@ SVG próprio animado com motion — [[ADR-004-graficos-proprios-em-svg]].
 |---|---|---|
 | `escala.ts` | `escalaLinear`, `marcasDoEixo`, `caminhoSuave` (monotônica) | [[2026-10-02-pr-058-graficos-escala]] |
 | `GraficoDeBarras` | barras agrupadas em pílula; crescem da base em cascata; dica por coluna; tabela `sr-only` | [[2026-10-02-pr-060-grafico-de-barras]] |
+| `geometria.ts` | `noCirculo`, `fatias`, `setor` (pizza/rosca; 0 rad às 12 h) | [[2026-10-02-pr-064-graficos-geometria]] |
