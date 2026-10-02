@@ -87,3 +87,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #150 | [[2026-10-02-pr-150-configuracoes-seguranca]] — feat(configuracoes): aba Segurança com duas etapas e troca de senha com medidor |
 | #152 | [[2026-10-02-pr-152-programa-de-pontos]] — feat(dominio): níveis, pontos e benefícios do programa Meus privilégios |
 | #154 | [[2026-10-02-pr-154-barra-de-progresso]] — ui(primitivos): BarraDeProgresso que enche ao aparecer |
+| #156 | [[2026-10-02-pr-156-privilegios-tela]] — feat(privilegios): tela Meus privilégios com nível, pontos e benefícios |

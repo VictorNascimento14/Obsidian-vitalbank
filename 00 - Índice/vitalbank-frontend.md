@@ -45,3 +45,4 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[Emprestimos]] — `/emprestimos`
 - [[Servicos]] — `/servicos`
 - [[Configuracoes]] — `/configuracoes`
+- [[MeusPrivilegios]] — `/privilegios`
