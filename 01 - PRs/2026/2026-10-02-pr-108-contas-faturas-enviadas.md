@@ -7,7 +7,7 @@ pr: 108
 url: https://github.com/VictorNascimento14/Vitalbank/pull/108
 branch: feat/contas-faturas-enviadas
 tags: [pr, contas]
-status: aberto
+status: merged
 ---
 
 # PR #108 — feat(contas): Faturas enviadas com tempo relativo
