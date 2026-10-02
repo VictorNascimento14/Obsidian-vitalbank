@@ -7,7 +7,7 @@ pr: 209
 url: https://github.com/VictorNascimento14/Vitalbank/pull/209
 branch: fix/documentacao-isenta-dependabot
 tags: [pr, ci, deps]
-status: aberto
+status: merged
 ---
 
 # PR #209 — fix(ci): não exigir nota do cofre nos PRs do Dependabot
