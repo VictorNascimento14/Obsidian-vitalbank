@@ -95,3 +95,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #166 | [[2026-10-02-pr-166-sistema-carregamento]] — feat(sistema): tela de carregamento do painel com esqueletos |
 | #168 | [[2026-10-02-pr-168-sistema-notificacoes]] — feat(sistema): painel de notificações no sino do cabeçalho |
 | #170 | [[2026-10-02-pr-170-dominio-busca]] — feat(dominio): busca sem acento, com todas as palavras e ordem por relevância |
+| #172 | [[2026-10-02-pr-172-sistema-busca-global]] — feat(sistema): busca global com Ctrl+K em telas, transações e serviços |
