@@ -11,3 +11,4 @@ tags: [pagina, contas]
 | Bloco | Arquivo | PR |
 |---|---|---|
 | Resumo (saldo, receitas, despesas, poupança) | `src/telas/contas/ResumoDaConta.tsx` | [[2026-10-02-pr-098-contas-resumo]] |
+| Última transação | `src/telas/contas/UltimaTransacao.tsx` | [[2026-10-02-pr-102-contas-ultima-transacao]] |
