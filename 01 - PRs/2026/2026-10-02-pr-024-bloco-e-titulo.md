@@ -7,7 +7,7 @@ pr: 24
 url: https://github.com/VictorNascimento14/Vitalbank/pull/24
 branch: ui/bloco-e-titulo
 tags: [pr, design, primitivos]
-status: aberto
+status: merged
 ---
 
 # PR #24 — ui(primitivos): Bloco e TituloDeSecao, a moldura de todas as telas
