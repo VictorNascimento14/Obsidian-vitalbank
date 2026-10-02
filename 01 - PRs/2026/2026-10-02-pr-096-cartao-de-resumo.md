@@ -7,7 +7,7 @@ pr: 96
 url: https://github.com/VictorNascimento14/Vitalbank/pull/96
 branch: ui/cartao-de-resumo
 tags: [pr, design, primitivos, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #96 — ui(primitivos): CartaoDeResumo com número que conta e pastilha fluida
