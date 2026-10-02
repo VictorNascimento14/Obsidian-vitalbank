@@ -7,7 +7,7 @@ pr: 156
 url: https://github.com/VictorNascimento14/Vitalbank/pull/156
 branch: feat/privilegios-tela
 tags: [pr, privilegios, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #156 — feat(privilegios): tela Meus privilégios com nível, pontos e benefícios
