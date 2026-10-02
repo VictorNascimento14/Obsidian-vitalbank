@@ -20,3 +20,4 @@ Peças de `src/ui/base/`, importadas de `@/ui`. Tokens em [[linguagem-visual]].
 | `Alternador` | `role="switch"`, controlado ou não; bolinha desliza em mola, trilho turquesa | [[2026-10-02-pr-032-alternador]] |
 | `Abas` | WAI-ARIA com setas/Home/End; sublinhado desliza (`layoutId`), painel em fade | [[2026-10-02-pr-034-abas]] |
 | `PastilhaDeIcone` | círculo claro + ícone Remix colorido; 6 tons; gira e cresce com `group-hover` | [[2026-10-02-pr-036-pastilha-de-icone]] |
+| `Paginacao` | "Anterior 1 2 3 Próxima"; página atual em pílula que desliza; controlada | [[2026-10-02-pr-088-paginacao]] |

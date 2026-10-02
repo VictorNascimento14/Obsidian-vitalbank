@@ -53,3 +53,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #82 | [[2026-10-02-pr-082-dados-codigo-da-transacao]] — feat(dados): código de extrato nas transações e semente de dois meses |
 | #84 | [[2026-10-02-pr-084-fix-estouro-horizontal]] — fix(layout): impedir que a fila de cartões alargue a página no celular |
 | #86 | [[2026-10-02-pr-086-transacoes-tabela]] — feat(transacoes): extrato em tabela no desktop e em lista no celular |
+| #88 | [[2026-10-02-pr-088-paginacao]] — ui(primitivos): Paginacao com a página atual numa pílula que desliza |
