@@ -7,7 +7,7 @@ pr: 18
 url: https://github.com/VictorNascimento14/Vitalbank/pull/18
 branch: ui/movimento-base
 tags: [pr, design, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #18 — ui(movimento): instalar motion, ritmo comum e o primitivo Surgir
