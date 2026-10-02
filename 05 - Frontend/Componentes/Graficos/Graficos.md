@@ -18,3 +18,4 @@ SVG próprio animado com motion — [[ADR-004-graficos-proprios-em-svg]].
 | `GraficoDePizza` | pizza explodida, raio por fatia, rótulo dentro; abre do centro; fatia em foco se afasta | [[2026-10-02-pr-066-grafico-de-pizza]] |
 | `GraficoDeLinha` | linha suave ou reta, área em degradê, pontos, grade tracejada; desenha-se ao aparecer; guia com valor | [[2026-10-02-pr-072-grafico-de-linha]] |
 | `GraficoDeColunas` | colunas sem eixo, uma em destaque com o valor; destaque segue o mouse | [[2026-10-02-pr-078-grafico-de-colunas]] |
+| `GraficoDeRosca` | arcos de espessura própria; entra girando; arco/legenda em foco cresce e mostra a parte | [[2026-10-02-pr-124-grafico-de-rosca]] |

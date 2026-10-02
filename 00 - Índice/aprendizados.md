@@ -12,3 +12,4 @@ tags: [indice, aprendizado]
 | 2026-10-02 | [[2026-10-02-gradiente-de-svg-com-id-repetido]] — gradiente de SVG com id repetido some quando a primeira cópia está escondida |
 | 2026-10-02 | [[2026-10-02-grade-sem-minmax-alarga-com-rolagem-interna]] — grade sem `minmax(0, …)` alarga a página por causa de rolagem interna |
 | 2026-10-02 | [[2026-10-02-funcao-de-modulo-cliente-nao-roda-no-servidor]] — função de módulo `"use client"` não roda no servidor |
+| 2026-10-02 | [[2026-10-02-motion-nao-anima-d-de-arco]] — o motion não anima o `d` de um arco SVG |
