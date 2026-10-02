@@ -29,5 +29,6 @@ Mapa das telas e peças do app. Linguagem visual em [[linguagem-visual]].
 - [[ColunaLateral]] — menu das 9 telas, marcador deslizante — [[2026-10-02-pr-040-coluna-lateral]].
 - [[Cabecalho]] — título, busca, atalhos, avatar — [[2026-10-02-pr-042-cabecalho]].
 - [[Casca]] — layout `(painel)`: coluna fixa ≥ 1024 px, gaveta abaixo — [[2026-10-02-pr-046-layout-do-painel]].
+- [[CartaoDeCredito]] — 3 faces, inclinação 3D e reflexo — [[2026-10-02-pr-050-cartao-de-credito]].
 
 ## Telas

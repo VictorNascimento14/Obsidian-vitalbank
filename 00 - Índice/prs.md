@@ -34,3 +34,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #44 | [[2026-10-02-pr-044-fix-gradiente-da-marca]] — fix(marca): dar id único ao gradiente do símbolo |
 | #46 | [[2026-10-02-pr-046-layout-do-painel]] — ui(casca): layout do painel com coluna fixa e gaveta no celular |
 | #48 | [[2026-10-02-pr-048-dados-base]] — feat(dados): tipos, sementes de cartões e transações, e a fronteira de leitura |
+| #50 | [[2026-10-02-pr-050-cartao-de-credito]] — ui(cartao): cartão de crédito em três faces, com inclinação 3D e reflexo ao mouse |
