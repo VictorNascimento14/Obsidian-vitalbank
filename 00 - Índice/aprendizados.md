@@ -13,3 +13,4 @@ tags: [indice, aprendizado]
 | 2026-10-02 | [[2026-10-02-grade-sem-minmax-alarga-com-rolagem-interna]] — grade sem `minmax(0, …)` alarga a página por causa de rolagem interna |
 | 2026-10-02 | [[2026-10-02-funcao-de-modulo-cliente-nao-roda-no-servidor]] — função de módulo `"use client"` não roda no servidor |
 | 2026-10-02 | [[2026-10-02-motion-nao-anima-d-de-arco]] — o motion não anima o `d` de um arco SVG |
+| 2026-10-02 | [[2026-10-02-template-e-error-juntos-avisam-key]] — `template.tsx` + `error.tsx` no mesmo segmento avisam "unique key" no Next 16 |

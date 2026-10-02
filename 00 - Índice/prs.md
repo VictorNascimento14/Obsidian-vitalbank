@@ -105,3 +105,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #186 | [[2026-10-02-pr-186-acessibilidade-axe]] — test(a11y): axe nas nove telas, com controle negativo |
 | #188 | [[2026-10-02-pr-188-valores-sensiveis]] — feat(privacidade): marcar saldos e valores para poderem ser ocultados |
 | #190 | [[2026-10-02-pr-190-botao-ocultar-valores]] — feat(privacidade): botão de olho para ocultar valores, lembrado entre visitas |
+| #192 | [[2026-10-02-pr-192-fix-transicao-sem-template]] — fix(casca): transição entre telas na casca, sem o aviso de key do template |
