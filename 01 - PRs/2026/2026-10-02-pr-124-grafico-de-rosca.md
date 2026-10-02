@@ -7,7 +7,7 @@ pr: 124
 url: https://github.com/VictorNascimento14/Vitalbank/pull/124
 branch: feat/grafico-de-rosca
 tags: [pr, graficos, animacao, acessibilidade]
-status: aberto
+status: merged
 ---
 
 # PR #124 — feat(graficos): rosca com arcos de espessura própria e legenda interativa
