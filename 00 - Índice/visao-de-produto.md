@@ -31,3 +31,5 @@ abrir extrato linha a linha.
 - Não processa pagamento, não guarda número de cartão e não pede CPF.
 
 Telas e backlog em [[2026-10-02-plano-da-v1]]; mapa do código em [[vitalbank-frontend]].
+
+**Demo:** https://victornascimento14.github.io/Vitalbank/
