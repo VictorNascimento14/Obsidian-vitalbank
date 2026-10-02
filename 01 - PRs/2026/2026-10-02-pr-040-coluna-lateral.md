@@ -7,7 +7,7 @@ pr: 40
 url: https://github.com/VictorNascimento14/Vitalbank/pull/40
 branch: ui/coluna-lateral
 tags: [pr, design, casca, navegacao, animacao]
-status: aberto
+status: merged
 ---
 
 # PR #40 — ui(casca): coluna lateral com o marcador deslizando até a tela aberta
