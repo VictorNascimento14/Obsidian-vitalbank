@@ -56,3 +56,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #88 | [[2026-10-02-pr-088-paginacao]] — ui(primitivos): Paginacao com a página atual numa pílula que desliza |
 | #90 | [[2026-10-02-pr-090-transacoes-abas-e-paginacao]] — feat(transacoes): filtrar o extrato por entradas e saídas e paginar de 5 em 5 |
 | #92 | [[2026-10-02-pr-092-dominio-recibo]] — feat(dominio): texto do recibo de transação |
+| #94 | [[2026-10-02-pr-094-transacoes-baixar-recibo]] — feat(transacoes): baixar o recibo de cada transação |

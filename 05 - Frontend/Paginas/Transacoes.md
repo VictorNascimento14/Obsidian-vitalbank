@@ -14,3 +14,4 @@ tags: [pagina, transacoes]
 | Minhas despesas | `src/telas/transacoes/MinhasDespesas.tsx` | [[2026-10-02-pr-080-transacoes-cartoes-e-despesas]] |
 | Extrato (tabela / lista) | `src/telas/transacoes/TabelaDeTransacoes.tsx` | [[2026-10-02-pr-086-transacoes-tabela]] |
 | Abas e paginação do extrato | `src/telas/transacoes/Extrato.tsx` | [[2026-10-02-pr-090-transacoes-abas-e-paginacao]] |
+| Baixar recibo | `src/telas/transacoes/BaixarRecibo.tsx` | [[2026-10-02-pr-094-transacoes-baixar-recibo]] |
