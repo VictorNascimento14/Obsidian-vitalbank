@@ -19,3 +19,7 @@ tags: [meta]
 | `08 - Infra e Deploy` | `Runbooks/`, `Planos/`, `Pendencias/` |
 | `09 - Templates` | Modelos de nota |
 | `10 - Meta` | Documentação sobre o cofre |
+
+## Publicar uma mudança
+
+`scripts/publicacao/publicar.sh <pacote>` faz o fluxo inteiro do `CLAUDE.md` — ver o README da pasta. — [[2026-10-02-pr-211-script-de-publicacao]]
