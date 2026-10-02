@@ -25,5 +25,6 @@ Menu de 250 px com a [[Marca]] no topo e as 9 telas de `NAVEGACAO` (`src/ui/casc
 - Item ativo: `primaria`, `aria-current="page"` e a barra de 6 px que **desliza em mola** (`layoutId`).
 - Hover: ícone cresce, texto anda 4 px.
 - `/` só acende em `/` exato; as outras acendem nas sub-rotas.
+- O título da aba também sai daqui: `metadadosDaTela(rota)` → "Transações · Vitalbank".
 
 Introduzido em [[2026-10-02-pr-040-coluna-lateral]].

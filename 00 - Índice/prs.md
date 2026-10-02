@@ -90,3 +90,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #156 | [[2026-10-02-pr-156-privilegios-tela]] — feat(privilegios): tela Meus privilégios com nível, pontos e benefícios |
 | #158 | [[2026-10-02-pr-158-transicao-entre-telas]] — ui(casca): transição suave do conteúdo a cada troca de tela |
 | #160 | [[2026-10-02-pr-160-sistema-404]] — feat(sistema): página 404 com o símbolo flutuando e o caminho de volta |
+| #162 | [[2026-10-02-pr-162-titulo-da-aba]] — feat(sistema): título da aba do navegador por tela |
